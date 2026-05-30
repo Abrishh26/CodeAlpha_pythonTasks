@@ -1,0 +1,9 @@
+Scraped Website Titles
+==============================
+
+URL: https://www.python.org
+Title: Welcome to Python.org
+
+URL: https://github.com
+Title: GitHub · Change is constant. GitHub keeps you ahead. · GitHub
+
